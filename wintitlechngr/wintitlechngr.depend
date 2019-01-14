@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547458289 source:e:\c++\wintitlechngr\main.cpp
+	<Windows.h>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+
